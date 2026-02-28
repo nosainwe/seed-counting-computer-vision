@@ -7,7 +7,7 @@ This project presents a comprehensive study on the automated counting of seeds i
 3. **Machine Learning:** Random Forest regression to estimate counts based on global image statistics.
 
 ## Project Structure
-* `main_analysis.ipynb`: The complete Python code for all three workflows, including visualization and metric evaluation.
+* `main_analysis.ipynb`: The complete Python code for all three workflows, including visualisation and metric evaluation.
 * `Project_Report.pdf`: Detailed documentation of the mathematical theory, algorithm design, and result analysis.
 
 ## Key Results
